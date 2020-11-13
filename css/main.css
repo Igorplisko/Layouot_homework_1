@@ -1,0 +1,52 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Arial; 
+}
+
+.block {
+	width: 315px; 
+	margin: 0 auto;
+}
+
+
+.block2 {
+	background: #f6f6f6; 
+	padding: 30px;
+	margin-top: -15px;
+}
+
+
+time {
+	font-size: 12px;
+	color: #1b90cf; 
+}
+
+h1 {
+	font-size: 15px;
+	line-height: 24px;
+	color: #1b90cf; 
+	font-weight: 700;
+}
+
+p {
+	font-size: 15px;
+	line-height: 23px;
+	color: #575756; 
+}
+
+.link, span {
+	color: #1b90cf;
+}
+
+.button{
+	width: 210px;
+	height: 45px;
+	display: block;
+	font-weight: 700;
+	color: #ffffff;
+	background: #1b90cf;
+	text-decoration: none;
+	text-align: center; 
+	line-height: 45px;
+}
